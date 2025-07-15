@@ -7,4 +7,10 @@ matplotlib>=3.5.0
 scikit-learn>=1.0.0
 seaborn>=0.11.2
 moviepy>=1.0.3
-h5py>=3.6.0
+numba
+smtplib
+email
+threading
+socket
+pickle
+twilio
